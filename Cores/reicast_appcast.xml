@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+<channel>
+<title>REICAST</title>
+<link>https://raw.github.com/OpenEmu/OpenEmu-Update/master/reicast_appcast.xml</link>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
+<item>
+<title>MAME Version 0.149.4</title>
+<sparkle:releaseNotesLink>
+http://openemu.org/category/releasenotes/mame/MAME_0.149.4.html
+</sparkle:releaseNotesLink>
+<pubDate>Fri, 14 Sep 2018 19:32:53 -0500</pubDate>
+<enclosure
+url="https://github.com/OpenEmu/UME-Core/releases/download/v0.149.4/Reicast.zip"
+sparkle:version="1.0.1"
+type="application/octet-stream"
+length="699930"
+/>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+</item>
+</channel>
+</rss>
+
